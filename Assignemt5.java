@@ -1,4 +1,6 @@
-
+//Name : Atharva Roshan Kumar 
+//PRN : 123B1F002
+//Date : 12/09/2025
 import java.util.*;
 
 public class Assignemt5 {
@@ -105,4 +107,5 @@ public class Assignemt5 {
         }
     }
 }
+
 
