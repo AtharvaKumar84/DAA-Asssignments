@@ -1,4 +1,8 @@
-
+/**
+PRN: 123B1F002
+NAME: Atharva Roshan Kumar
+DATE: 31/10/2025
+    /**
 import java.util.*;
 
 public class Assignemt7 {
@@ -90,4 +94,5 @@ public class Assignemt7 {
         allocateRooms(ds,4);
     }
 }
+
 
