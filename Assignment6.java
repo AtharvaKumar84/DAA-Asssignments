@@ -1,4 +1,6 @@
-
+//Name : Atharva Roshan Kumar 
+//PRN : 123B1F002
+//Date : 19/09/2025
 import java.util.*;
 
 public class Assignment6{
@@ -55,4 +57,5 @@ public class Assignment6{
         allocateMultipleTrucks(items,2,40);
     }
 }
+
 
