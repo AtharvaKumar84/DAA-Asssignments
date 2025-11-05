@@ -1,5 +1,4 @@
-//Name : Hatwate Vaibhav Motiram PRN : 123B1F030
-//Date : 01/09/2025
+
 import java.util.*;
 
 public class Assignment6{
@@ -56,3 +55,4 @@ public class Assignment6{
         allocateMultipleTrucks(items,2,40);
     }
 }
+
