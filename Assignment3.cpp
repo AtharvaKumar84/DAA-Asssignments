@@ -1,3 +1,7 @@
+//PRN: 123B1F002
+//NAME: Atharva Roshan Kumar
+//DATE: 8/08/2025
+
 #include <iostream>
 #include <vector>
 #include <algorithm>
@@ -81,3 +85,4 @@ int main() {
 
     return 0;
 }
+
